@@ -74,7 +74,7 @@ O assistente de delivery deve responder a perguntas comuns, como status de pedid
   }
 }
 
-**Informações dos Clientes e Respostas do Assistente:**
+## **Informações dos Clientes 👤 e Respostas do Assistente:** 💬🤖
 
 * **Nome:** Ana Clara Souza **Idade:** 25 anos **Sexo:** Feminino **Preferência de paladar:** Vegetariana **Pergunta:** "O que você recomenda para o jantar?" **Resposta:** "Ana, que tal experimentar o restaurante Green Garden? Eles oferecem opções deliciosas de saladas e pratos vegetarianos, como o 'Risoto de Cogumelos'. Uma ótima escolha para um jantar leve e saudável!"
 
